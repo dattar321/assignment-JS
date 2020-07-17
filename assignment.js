@@ -55,6 +55,8 @@ function tinyFriend(friendlist){
     if(tinyFriendList.length==0)
         return "Empty friend list";
     if(tinyFriendList.length==1) return tinyFriendList[0];
-    return tinyFriendList
+    return tinyFriendList;
     
 }
+
+console.log(tinyFriend(["rr","ss"]));
