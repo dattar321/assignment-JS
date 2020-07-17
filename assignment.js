@@ -58,5 +58,3 @@ function tinyFriend(friendlist){
     return tinyFriendList;
     
 }
-
-console.log(tinyFriend(["rr","ss"]));
